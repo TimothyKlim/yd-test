@@ -1,0 +1,5 @@
+development:
+  yandex:
+    oauth_credentials:
+      id: '123'
+      secret: '456'
